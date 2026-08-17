@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ashraf \u0026 Hesham Libya — Mercedes-Benz Spare Parts ERP",
+  "description": "Enterprise ERP and inventory management system for Mercedes-Benz spare parts featuring EPC part master, multi-warehouse bin location tracking, stock movements, and purchasing intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
